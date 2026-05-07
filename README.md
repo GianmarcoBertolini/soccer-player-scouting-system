@@ -13,9 +13,7 @@ Java-based analytics system designed to evaluate professional soccer players fro
 
 ## Technologies
 - Java
-- OOP
 - File I/O
-- CSV Processing
 - UML
 
 ## Author
